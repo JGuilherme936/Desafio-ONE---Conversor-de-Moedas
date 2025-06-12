@@ -153,14 +153,6 @@ Este projeto demonstra conceitos importantes de programação Java:
 - Records (Java 14+)
 - Programação defensiva
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-- Reportar bugs
-- Sugerir melhorias
-- Implementar novas funcionalidades
-- Melhorar a documentação
-
 #### 👨‍💻 Quem sou
 
 João Guilherme Azevedo Barros, aluno de Engenharia da Computação no 4º Período pela Universidade CEUMA, entusiasta de Full-stack, dev e Cibersegurança.
